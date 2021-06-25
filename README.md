@@ -1,4 +1,4 @@
-### Yahallo! 👋
+### Yahallo!
 
 
 - 🌱 I’m currently learning Mobile Development (Android/Flutter)
