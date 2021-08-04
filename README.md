@@ -1,7 +1,7 @@
 ### Yahallo!
 
 
-- 🌱 I’m currently learning Mobile Development (Android/Flutter)
+- 🌱 I’m currently learning Mobile Development (Android)
 
 <!--
 **Leonards03/Leonards03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
