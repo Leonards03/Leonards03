@@ -3,7 +3,7 @@
 
 <!-- ## 🔗 Links -->
 ### Connect with me:
-[![Linked-In Icon](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg =30x40)](https://linkedin.com/in/leonards03)
+[![Linked-In Icon](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg=30x40)](https://linkedin.com/in/leonards03)
 
   
 
