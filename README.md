@@ -31,13 +31,10 @@
 </a> 
 </p> -->
 
-<details>
-  <summary><b>📊 GitHub Stats</b></summary>
-  <br />
-  <!--START_SECTION:waka-->
-  
-  <!--END_SECTION:waka-->
-</details>
+## GitHub Stats
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonards03&show_icons=true&locale=en&layout=compact" alt="leonards03" /></p>
