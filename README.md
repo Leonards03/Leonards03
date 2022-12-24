@@ -31,7 +31,7 @@
 </a> 
 </p> -->
 
-## GitHub Stats
+<!-- ## GitHub Stats -->
 <!--START_SECTION:waka-->
 <!-- **I'm a Night 🦉**  -->
 <!-- 
